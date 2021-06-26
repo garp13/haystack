@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/haystack/static/css/main.827f5b51.chunk.css",
+    "main.js": "/haystack/static/js/main.463c0913.chunk.js",
+    "main.js.map": "/haystack/static/js/main.463c0913.chunk.js.map",
+    "runtime-main.js": "/haystack/static/js/runtime-main.0a9dbe93.js",
+    "runtime-main.js.map": "/haystack/static/js/runtime-main.0a9dbe93.js.map",
+    "static/css/2.10bc9b17.chunk.css": "/haystack/static/css/2.10bc9b17.chunk.css",
+    "static/js/2.4512c834.chunk.js": "/haystack/static/js/2.4512c834.chunk.js",
+    "static/js/2.4512c834.chunk.js.map": "/haystack/static/js/2.4512c834.chunk.js.map",
+    "static/js/3.aec8db3b.chunk.js": "/haystack/static/js/3.aec8db3b.chunk.js",
+    "static/js/3.aec8db3b.chunk.js.map": "/haystack/static/js/3.aec8db3b.chunk.js.map",
+    "index.html": "/haystack/index.html",
+    "static/css/2.10bc9b17.chunk.css.map": "/haystack/static/css/2.10bc9b17.chunk.css.map",
+    "static/css/main.827f5b51.chunk.css.map": "/haystack/static/css/main.827f5b51.chunk.css.map",
+    "static/js/2.4512c834.chunk.js.LICENSE.txt": "/haystack/static/js/2.4512c834.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a9dbe93.js",
+    "static/css/2.10bc9b17.chunk.css",
+    "static/js/2.4512c834.chunk.js",
+    "static/css/main.827f5b51.chunk.css",
+    "static/js/main.463c0913.chunk.js"
+  ]
+}
