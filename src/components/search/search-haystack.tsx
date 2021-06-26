@@ -38,7 +38,7 @@ export const SearchHaystack: React.FC = () => {
     const [dataResponse, setDataResponse] = useState<any[]>([])
 
     const onFinish = async (values: any) => {
-        console.log(values)
+        console.log("https")
         const formValues = {
            'gender': values?.user.gender,
             'major': values?.user.major,
